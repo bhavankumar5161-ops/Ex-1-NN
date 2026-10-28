@@ -89,46 +89,48 @@ print(len(x_test))
 ## OUTPUT:
 
 
-The dataset:
+# The dataset:
+
 
 <img width="1479" height="464" alt="359101053-20d15b52-7c53-4f49-851e-d2cac3981c82" src="https://github.com/user-attachments/assets/7101d14b-ddd0-4c32-b07f-299cba525d74" />
 
 
-Splitting the dataset: 
+# Splitting the dataset: 
+
 
 <img width="509" height="194" alt="359101298-d7541306-08ca-429c-a03e-2a7fbf824cd8" src="https://github.com/user-attachments/assets/663ea1e9-1e0d-4647-908d-e544d21ed137" />
 
 
-Checking for null values:
+# Checking for null values:
 
 <img width="358" height="363" alt="359101437-892f1695-70e7-4ecb-8f8c-a9ec96ac2a87" src="https://github.com/user-attachments/assets/9d3c8a14-f818-4a66-be17-861c72ed57ac" />
 
-Checking for duplication:
+# Checking for duplication:
 
 <img width="268" height="72" alt="359101576-2075962b-c497-48d8-b405-f072a1e9c86a" src="https://github.com/user-attachments/assets/d5433165-7a24-4375-afbc-cb8b95fec233" />
 
 
-
-Dropping unwanted features:
+# Dropping unwanted features:
 
 <img width="1278" height="575" alt="359101910-12abc2d9-a0b0-4897-9126-8bdb3dc0432b" src="https://github.com/user-attachments/assets/a68c53cc-5ade-4157-9118-80466a86b01e" />
 
 
-Describing the dataset:
+# Describing the dataset:
 
 <img width="1160" height="506" alt="359102057-c79e4e31-71b6-493a-853b-f59b59414d57" src="https://github.com/user-attachments/assets/f8fdf361-6c3e-44c6-81d5-6cc4605a9830" />
 
-Scaling the values:
+
+# Scaling the values:
 
 <img width="824" height="548" alt="359102167-eb9a7660-0d6d-4698-864e-bf90d144e0f6" src="https://github.com/user-attachments/assets/6ae18dde-60a6-4076-b96b-f96137d2b2ea" />
 
 
-X and Y features:
+# X and Y features:
 
 <img width="827" height="451" alt="359102525-316c5ced-4649-4861-babb-bdaeebb47543" src="https://github.com/user-attachments/assets/75675a6f-ada5-4943-bfa8-d2ebbdd69ff9" />
 
 
-Splitting the training and testing dataset:
+# Splitting the training and testing dataset:
 
 <img width="976" height="481" alt="359102672-5349ba7e-0157-4e43-a195-d472146f9e24" src="https://github.com/user-attachments/assets/dac2dd00-ade3-45b8-a828-2b2305635071" />
 
